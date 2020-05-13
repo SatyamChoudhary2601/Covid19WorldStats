@@ -12,7 +12,7 @@ class Countries extends Component {
 
 
             <tr>
-                <td>{countries.Country} code {countries.CountryCode} </td>
+                <td>{countries.Country} </td>
                 <td>{countries.TotalConfirmed}</td>
                 <td>{countries.TotalDeaths}</td>
                 <td>{countries.TotalRecovered}</td>
