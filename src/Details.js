@@ -35,6 +35,7 @@ class Details extends Component {
         }
         return (
             <div className="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                <meta name="google-site-verification" content="T7m6oQ4oSA2LztgQYQAsF1cxSM1bAX5hiWDDzsdHhWk" />
                 <div style={{ marginTop: 20 }}>
                     <Summary
                         summary={this.state.global}
