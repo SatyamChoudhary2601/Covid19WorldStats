@@ -9,6 +9,7 @@ class About extends Component {
                 <div className="row">
                     <div className="col-md-4">
                         <div className="body">
+                        <meta name="google-site-verification" content="T7m6oQ4oSA2LztgQYQAsF1cxSM1bAX5hiWDDzsdHhWk" />
 
                             <h1>
                                 <span>S</span>
