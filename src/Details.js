@@ -31,7 +31,7 @@ class Details extends Component {
 
 
         if (this.state.loading) {
-            return <h2>Loading...</h2>
+            return <div><h2>Loading...</h2><br /><p>Not loaded yet??</p><br /><h2>Refresh the Page</h2> </div>
         }
         return (
             <div className="col-md-12 col-lg-12 col-sm-12 col-xs-12">
